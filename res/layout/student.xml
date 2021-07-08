@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/blue_bg">
+    <Button
+        android:id="@+id/b1"
+        android:layout_width="180dp"
+        android:layout_height="100dp"
+        android:text="Register Food Permission"
+        android:layout_marginLeft="115dp"
+        android:layout_marginTop="10dp"
+        android:drawableTop="@drawable/ic_foody"
+        android:gravity="center"
+        android:background="@drawable/white_fill_rounded_color"/>
+    <Button
+        android:id="@+id/b2"
+        android:layout_width="180dp"
+        android:layout_height="100dp"
+        android:text="Register Birthday Permission"
+        android:layout_marginLeft="115dp"
+        android:layout_marginTop="10dp"
+        android:drawableTop="@drawable/ic_bday3"
+        android:gravity="center"
+        android:background="@drawable/white_fill_rounded_color"/>
+
+    <Button
+        android:id="@+id/b3"
+        android:layout_width="180dp"
+        android:layout_height="100dp"
+        android:text="Register Hospital Permission"
+        android:layout_marginLeft="115dp"
+        android:layout_marginTop="10dp"
+        android:drawableTop="@drawable/ic_hosp3"
+        android:gravity="center"
+        android:background="@drawable/white_fill_rounded_color"/>
+
+    <Button
+        android:id="@+id/b4"
+        android:layout_width="180dp"
+        android:layout_height="100dp"
+        android:text="Register complaints"
+        android:layout_marginLeft="115dp"
+        android:layout_marginTop="10dp"
+        android:drawableTop="@drawable/ic_comp1"
+        android:gravity="center"
+        android:background="@drawable/white_fill_rounded_color"/>
+
+    <Button
+        android:id="@+id/b5"
+        android:layout_width="180dp"
+        android:layout_height="100dp"
+        android:text="Give feedback for work done"
+        android:layout_marginLeft="115dp"
+        android:layout_marginTop="10dp"
+        android:drawableTop="@drawable/ic_feed"
+        android:gravity="center"
+        android:background="@drawable/white_fill_rounded_color"/>
+
+</LinearLayout>
+
+
+    <!--<TextView
+        android:layout_marginLeft="50dp"
+        android:id="@+id/t2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/poppins_regular"
+        android:hint="Click here for Food permission"
+        android:textSize="15dp"
+        android:textStyle="bold"
+        android:textColor="#fff"
+        android:layout_marginTop="5dp"
+        />-->
+    <!--<Button
+        android:id="@+id/b1"
+        android:layout_gravity="center"
+        android:layout_width="400dp"
+        android:layout_height="50dp"
+        android:layout_marginLeft="62dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginRight="62dp"
+        android:layout_toRightOf="@+id/food_icon"
+        android:background="@drawable/grey_fill_rounded_color"
+        android:fontFamily="@font/poppins_medium"
+        android:gravity="center"
+        android:paddingTop="14dp"
+        android:paddingBottom="14dp"
+        android:text="Register food permissions"
+        android:textSize="18sp"
+        android:textColor="#000000"/>-->
+
+    <!--<Button
+        android:drawableTop="@drawable/foodie"
+        android:layout_width="180dp"
+        android:layout_height="90dp"
+        android:gravity="center"
+        android:layout_marginLeft="100dp"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/white_fill_rounded_color"/>-->
+
+
+    <!--<ImageView
+        android:id="@+id/food_icon"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:layout_ceterVertical="true"
+        android:layout_marginLeft="17dp"
+        android:src="@drawable/food_logo"/>-->
+
+    <!--<TextView
+        android:layout_marginLeft="50dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/poppins_regular"
+        android:hint="Click here for Birthday permission"
+        android:textColor="#FFF"
+        android:textSize="15dp"
+        android:textStyle="bold"
+        android:id="@+id/t3"
+        android:layout_marginTop="5dp"/>-->
+    <!--<Button
+        android:id="@+id/b2"
+        android:layout_gravity="center"
+        android:layout_width="400dp"
+        android:layout_height="50dp"
+        android:layout_marginLeft="62dp"
+        android:layout_marginTop="9dp"
+        android:layout_marginRight="62dp"
+        android:background="@drawable/grey_fill_rounded_color"
+        android:fontFamily="@font/poppins_medium"
+        android:gravity="center"
+        android:paddingTop="14dp"
+        android:paddingBottom="14dp"
+        android:text="Register birthday permissions "
+        android:textSize="18sp"
+        android:textColor="#000000"/>-->
+
+    <!--<TextView
+        android:layout_marginLeft="50dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/poppins_regular"
+        android:hint="Click here for Hospital permission"
+        android:textColor="#FFF"
+        android:textSize="15dp"
+        android:textStyle="bold"
+        android:id="@+id/t4"
+        android:layout_marginTop="5dp"/>-->
+    <!--<Button
+        android:id="@+id/b3"
+        android:layout_gravity="center"
+        android:layout_width="400dp"
+        android:layout_height="50dp"
+        android:layout_marginLeft="62dp"
+        android:layout_marginTop="9dp"
+        android:layout_marginRight="62dp"
+        android:background="@drawable/grey_fill_rounded_color"
+        android:fontFamily="@font/poppins_medium"
+        android:gravity="center"
+        android:paddingTop="14dp"
+        android:paddingBottom="14dp"
+        android:text="Register hospital permissions"
+        android:textSize="18sp"
+        android:textColor="#000000"/>-->
+
+    <!--<TextView
+        android:layout_marginLeft="50dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/poppins_regular"
+        android:hint="Click here for registering complaints"
+        android:textColor="#FFF"
+        android:textSize="15dp"
+        android:textStyle="bold"
+        android:id="@+id/t5"
+        android:layout_marginTop="5dp"/>-->
+    <!--<Button
+        android:id="@+id/b4"
+        android:layout_gravity="center"
+        android:layout_width="400dp"
+        android:layout_height="50dp"
+        android:layout_marginLeft="62dp"
+        android:layout_marginTop="9dp"
+        android:layout_marginRight="62dp"
+        android:background="@drawable/grey_fill_rounded_color"
+        android:fontFamily="@font/poppins_medium"
+        android:gravity="center"
+        android:paddingTop="14dp"
+        android:paddingBottom="14dp"
+        android:text="Regsiter complaints"
+        android:textSize="18sp"
+        android:textColor="#000000"/>-->
+
+
+
+    <!--<TextView
+        android:layout_marginLeft="50dp"
+        android:id="@+id/t7"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:fontFamily="@font/poppins_regular"
+        android:hint="Click  here for  Feedback Activity"
+        android:textColor="#FFF"
+        android:textSize="15dp"
+        android:textStyle="bold" />-->
+    <!--<Button
+        android:layout_marginTop="5dp"
+        android:id="@+id/b6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="submit"/>-->
+    <!--<Button
+        android:id="@+id/b6"
+        android:layout_gravity="center"
+        android:layout_width="400dp"
+        android:layout_height="50dp"
+        android:layout_marginLeft="62dp"
+        android:layout_marginTop="9dp"
+        android:layout_marginRight="62dp"
+        android:background="@drawable/grey_fill_rounded_color"
+        android:fontFamily="@font/poppins_medium"
+        android:gravity="center"
+        android:paddingTop="14dp"
+        android:paddingBottom="14dp"
+        android:text="Submit feedback for work done"
+        android:textSize="18sp"
+        android:textColor="#000000"/>-->
+
+
+
+
+

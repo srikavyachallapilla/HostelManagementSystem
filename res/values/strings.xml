@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Original</string>
+    >
+    <string name="complaints_prompt">Complaint</string>
+    <string-array name="complaints_arrays">
+        <item>Electricity</item>
+        <item>Wifi</item>
+        <item>Water</item>
+        <item>Room Cleaning</item>
+        <item>Furniture</item>
+        <item>Washing Clothes</item>
+        <item>Others</item>
+
+    </string-array>
+    <string name="hostel_prompt">Complaint</string>
+    <string-array name="hostel_arrays">
+        <item>Mrudula</item>
+        <item>Vaidehi</item>
+        <item>Rohini</item>
+        <item>Revathi</item>
+        <item>Nirmala</item>
+        <item>Neelima</item>
+        <item>Bhuvana</item>
+        <item>Bhargavi</item>
+        <item>Rajyalakshmi</item>
+        <item>Rajeshwari</item>
+        <item>Sarada</item>
+        <item>Medha</item>
+        <item>Pallavi</item>
+        <item>Aryabhatta</item>
+
+
+    </string-array>
+</resources>
